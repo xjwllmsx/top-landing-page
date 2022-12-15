@@ -42,3 +42,10 @@ header {
     background-color: #1F2937;
     color: #f9faf8;
 }
+
+header .container {
+    margin: 0 25vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
