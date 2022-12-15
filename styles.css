@@ -11,3 +11,10 @@ nav {
     background-color: #1F2937;
     color: #f9faf8;
 }
+
+nav .container {
+    margin: 0 40vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
