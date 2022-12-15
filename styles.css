@@ -6,6 +6,7 @@ body {
     flex-direction: column;
 }
 
+
 /*Navigation*/
 nav {
     background-color: #1F2937;
@@ -33,4 +34,11 @@ nav .container {
 .logo {
     font-size: 24px;
     font-weight: 700;
+}
+
+
+/*Header*/
+header {
+    background-color: #1F2937;
+    color: #f9faf8;
 }
