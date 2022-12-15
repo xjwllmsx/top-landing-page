@@ -44,10 +44,11 @@ header {
 }
 
 header .container {
-    margin: 0 25vh;
+    margin: 10vh 25vh;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    gap: 48px;
 }
 
 .hero-img {
