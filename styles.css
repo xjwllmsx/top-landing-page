@@ -13,7 +13,7 @@ nav {
 }
 
 nav .container {
-    margin: 0 40vh;
+    margin: 0 25vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
