@@ -95,3 +95,10 @@ header .button {
     height: 200px;
     border-radius: 8px;
 }
+
+/*Block Quote*/
+.block-quote .container {
+    display: flex;
+    flex-direction: column;
+    margin: 10vh 25vh;
+}
