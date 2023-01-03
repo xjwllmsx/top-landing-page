@@ -84,3 +84,9 @@ header .button {
 .cards p {
     text-align: center;
 }
+
+.cards img {
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+}
