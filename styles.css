@@ -106,6 +106,7 @@ blockquote {
     flex-direction: column;
     margin: 10vh 25vh;
     font-size: 36px;
+    color: #1F2937;
 }
 
 blockquote p {
