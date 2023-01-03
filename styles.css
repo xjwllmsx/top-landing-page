@@ -107,3 +107,12 @@ blockquote {
     margin: 10vh 25vh;
     font-size: 36px;
 }
+
+blockquote p {
+    font-weight: 100;
+    font-style: italic;
+}
+
+blockquote span {
+    align-self: flex-end;
+}
