@@ -74,3 +74,9 @@ header .button {
     align-items: center;
     margin: 0 25vh;
 }
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
