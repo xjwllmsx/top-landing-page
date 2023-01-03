@@ -97,6 +97,10 @@ header .button {
 }
 
 /*Block Quote*/
+.block-quote {
+    background-color: #e5e7eb;
+}
+
 .block-quote .container {
     display: flex;
     flex-direction: column;
