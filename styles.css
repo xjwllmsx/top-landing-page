@@ -80,3 +80,7 @@ header .button {
     flex-direction: row;
     gap: 8px;
 }
+
+.cards p {
+    text-align: center;
+}
