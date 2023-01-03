@@ -67,3 +67,9 @@ header .button {
     padding: 6px 24px;
     border-radius: 8px;
 }
+/*Random Information*/
+.random-info .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
