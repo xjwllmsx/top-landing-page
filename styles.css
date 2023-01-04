@@ -112,3 +112,16 @@ blockquote p {
 blockquote span {
     align-self: flex-end;
 }
+
+/*Call to action*/
+.cta {
+   padding: 5vh 25vh; 
+}
+
+.cta .container {
+    display: flex;
+    margin: 0 auto;
+    background-color: #3882f6;
+    border-radius: 8px;
+    padding: 16px 32px;
+}
