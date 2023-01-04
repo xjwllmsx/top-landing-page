@@ -115,7 +115,7 @@ blockquote span {
 
 /*Call to action*/
 .cta {
-   padding: 15vh 25vh; 
+    padding: 15vh 25vh; 
 }
 
 .cta .container {
@@ -146,4 +146,12 @@ blockquote span {
     background-color: #f9faf8;
     color: #3882f6;
     cursor: pointer;
+}
+
+/*Footer*/
+footer {
+    background-color: #1F2937;
+    color: #f9faf8;
+    padding: 36px 0;
+    text-align: center;
 }
