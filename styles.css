@@ -137,3 +137,9 @@ blockquote span {
     padding: 6px 24px;
     font-weight: 600;
 }
+
+.button:hover {
+    background-color: #f9faf8;
+    color: #3882f6;
+    cursor: pointer;
+}
