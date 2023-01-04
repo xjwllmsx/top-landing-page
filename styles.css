@@ -120,6 +120,8 @@ blockquote span {
 
 .cta .container {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     margin: 0 auto;
     background-color: #3882f6;
     border-radius: 8px;
