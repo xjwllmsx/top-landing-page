@@ -115,17 +115,17 @@ blockquote span {
 
 /*Call to action*/
 .cta {
-   padding: 5vh 25vh; 
+   padding: 15vh 25vh; 
 }
 
 .cta .container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     margin: 0 auto;
     background-color: #3882f6;
     border-radius: 8px;
-    padding: 16px 32px;
+    padding: 36px 32px;
     color: #f9faf8;
 }
 
