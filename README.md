@@ -8,3 +8,4 @@ I do not own nor do I clam to own the images used in my site. All images were do
 * ["water ripple" by Linus Nylund](https://unsplash.com/photos/Q5QspluNZmM)
 * ["shallow focus of white dandelion" by Saad Chaudhry](https://unsplash.com/photos/YNM4KStg78I)
 * ["green plant sprouting at daytime" by Roman Synkevych](https://unsplash.com/photos/fjj7lVpCxRE)
+* ["landscape photography f mountain hit by sun rays" by David Marcu](https://unsplash.com/photos/78A265wPiO4)
