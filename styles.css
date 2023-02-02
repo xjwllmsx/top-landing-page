@@ -11,6 +11,8 @@ body {
 nav {
     background-color: #1F2937;
     color: #f9faf8;
+    padding-top: 15px;
+
 }
 
 nav .container {
@@ -20,7 +22,7 @@ nav .container {
     align-items: center;
 }
 
-.nav-links ul {
+.nav-links {
     list-style-type: none;
     display: flex;
     gap: 24px;
@@ -29,6 +31,7 @@ nav .container {
 .nav-links a {
     text-decoration: none;
     color: #f9faf8;
+    font-weight: 300;
 }
 
 .logo {
@@ -36,6 +39,9 @@ nav .container {
     font-weight: 700;
 }
 
+.nav-links a:hover {
+    color: #969696;
+}
 
 /*Header*/
 header {
