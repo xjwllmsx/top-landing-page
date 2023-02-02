@@ -1,5 +1,6 @@
 # TOP Landing Page
 This project is part of The Odin Project's Foundations curriculum. The goal of this project is to showcase my CSS skills.
+To see the live version of the page, [click here](https://xjwllmsx.github.io/top-landing-page/).
 
 ## Image Credits
 I do not own nor do I clam to own the images used in my site. All images were downlaoded from Unsplash. Below are the sources to my images:
