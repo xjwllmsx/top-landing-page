@@ -80,6 +80,7 @@ header .button {
 .cards {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 24px;
     width: 100%;
