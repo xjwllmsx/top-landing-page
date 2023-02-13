@@ -164,3 +164,23 @@ footer {
     padding: 36px 0;
     text-align: center;
 }
+
+/*Tablet-Horizontal*/
+@media only screen and (max-width: 1024px) {
+    header .container {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    } 
+
+    header .text {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .cta-text {
+        text-align: center;
+    }
+}
