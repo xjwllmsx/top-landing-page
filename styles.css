@@ -22,13 +22,13 @@ nav .container {
     align-items: center;
 }
 
-.nav-links {
+.nav-list {
     list-style-type: none;
     display: flex;
     gap: 24px;
 }
 
-.nav-links a {
+.nav-link {
     text-decoration: none;
     color: #f9faf8;
     font-weight: 300;
@@ -39,7 +39,7 @@ nav .container {
     font-weight: 700;
 }
 
-.nav-links a:hover {
+.nav-item a:hover {
     color: #969696;
 }
 
