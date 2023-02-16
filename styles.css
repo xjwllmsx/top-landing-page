@@ -290,6 +290,10 @@ footer {
         gap: 1.5rem;
     }
 
+    header img {
+        width: 350px;
+    }
+
     header .text {
         text-align: center;
     }
