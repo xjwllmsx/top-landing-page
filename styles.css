@@ -135,7 +135,7 @@ header .button {
 blockquote {
     display: flex;
     flex-direction: column;
-    margin: 5vh 25vh;
+    margin: 10vh 25vh;
     font-size: 36px;
     color: #1F2937;
 }
@@ -143,6 +143,7 @@ blockquote {
 blockquote p {
     font-weight: 100;
     font-style: italic;
+    margin-top: 0;
 }
 
 blockquote span {
@@ -313,7 +314,7 @@ footer {
     }
     
     blockquote {
-        margin: 5vh 6vh;
+        margin: 10vh 6vh;
         text-align: center;
         font-size: 1.5rem;
     }
