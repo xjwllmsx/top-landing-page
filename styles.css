@@ -317,6 +317,10 @@ footer {
         text-align: center;
         font-size: 1.5rem;
     }
+
+    blockquote span {
+        align-self: center;
+    }
     
     .cta {
         padding: 5vh 6vh;
