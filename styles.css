@@ -284,6 +284,16 @@ footer {
 
 /*Mobile*/
 @media only screen and (max-width: 425px) {
+    header .container {
+        margin: 5vh 10vh;
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    header .text {
+        text-align: center;
+    }
+    
     .random-info .container {
         margin: 2vh 10vh 5vh;
         text-align: center;
