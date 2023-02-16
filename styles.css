@@ -284,5 +284,7 @@ footer {
 
 /*Mobile*/
 @media only screen and (max-width: 425px) {
-
+    .cta {
+        padding: 5vh 10vh;
+    }
 }
