@@ -302,6 +302,11 @@ footer {
     .cards {
         margin-top: 0.5rem;
     }
+
+    .cards .item {
+        width: 100%;
+        max-width: 300px;
+    }
     
     blockquote {
         margin: 5vh 10vh;
