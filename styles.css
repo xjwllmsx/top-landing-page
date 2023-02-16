@@ -284,6 +284,15 @@ footer {
 
 /*Mobile*/
 @media only screen and (max-width: 425px) {
+    .random-info .container {
+        margin: 2vh 10vh 5vh;
+        text-align: center;
+    }
+
+    .cards {
+        margin-top: 0.5rem;
+    }
+    
     blockquote {
         margin: 5vh 10vh;
         text-align: center;
