@@ -284,6 +284,12 @@ footer {
 
 /*Mobile*/
 @media only screen and (max-width: 425px) {
+    blockquote {
+        margin: 5vh 10vh;
+        text-align: center;
+        font-size: 1.5rem;
+    }
+    
     .cta {
         padding: 5vh 10vh;
     }
