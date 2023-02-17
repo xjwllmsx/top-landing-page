@@ -18,7 +18,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 25vw;
+    padding: 0 19vw;
     height: 75px;
     transition: 0.3s;
 }
@@ -131,8 +131,8 @@ nav {
 /*Header*/
 header {
     display: flex;
-    padding: 10vh 25vw;
-    gap: 48px;
+    padding: 10vh 19vw;
+    gap: 3rem;
     background-color: #1F2937;
     color: #f9faf8;
 }
@@ -164,7 +164,7 @@ header .button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 0 10vw;
+    margin: 0 19vw;
     padding: 5vh 0 10vh;
     gap: 1.5rem;
 }
@@ -203,7 +203,7 @@ blockquote {
     font-size: 36px;
     color: #1F2937;
     gap: 1rem;
-    margin: 0 25vw;
+    margin: 0 19vw;
     padding: 10vh 0;
 }
 
@@ -219,7 +219,7 @@ blockquote span {
 
 /*Call to action*/
 .cta {
-    padding: 10vh 25vw; 
+    padding: 10vh 19vw; 
 }
 
 .cta .container {
