@@ -356,10 +356,6 @@ footer {
         display: block;
     }
 
-    .header {
-        padding: 10px 20px;
-    }
-
     .menu {
         justify-content: start;
         flex-direction: column;
@@ -384,18 +380,20 @@ footer {
         box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset;
     }
     
+    header {
+        flex-direction: column;
+        padding: 0;
+        gap: 1.5rem;
+    }
+
     header .container {
-        margin: 5vw 6vw;
+        margin: 5vh 6vw 0;
         flex-direction: column;
         gap: 1.5rem;
     }
 
     header img {
-        width: 350px;
-    }
-
-    header .text {
-        text-align: center;
+        max-width: 100%;
     }
     
     .random-info .container {
