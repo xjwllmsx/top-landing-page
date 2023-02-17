@@ -5,7 +5,7 @@
 }
 
 body {
-    min-height: 100vh;
+    min-height: 100vw;
     font-size: 16px;
 }
 
@@ -18,7 +18,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 25vh;
+    padding: 0 25vw;
     height: 75px;
     transition: 0.3s;
 }
@@ -130,7 +130,7 @@ header {
 }
 
 header .container {
-    padding: 10vh 25vh;
+    padding: 10vw 25vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -154,7 +154,7 @@ header .button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 2vh 25vh 10vh;
+    margin: 2vw 25vw 10vw;
 }
 
 .cards {
@@ -187,7 +187,7 @@ header .button {
 blockquote {
     display: flex;
     flex-direction: column;
-    margin: 10vh 25vh;
+    margin: 10vw 25vw;
     font-size: 36px;
     color: #1F2937;
 }
@@ -204,7 +204,7 @@ blockquote span {
 
 /*Call to action*/
 .cta {
-    padding: 15vh 25vh; 
+    padding: 15vw 25vw; 
 }
 
 .cta .container {
@@ -338,7 +338,7 @@ footer {
 /*Mobile*/
 @media only screen and (max-width: 425px) {
     header .container {
-        margin: 5vh 6vh;
+        margin: 5vw 6vw;
         flex-direction: column;
         gap: 1.5rem;
     }
@@ -352,7 +352,7 @@ footer {
     }
     
     .random-info .container {
-        margin: 2vh 6vh 5vh;
+        margin: 2vw 6vw 5vw;
         text-align: center;
     }
 
@@ -366,7 +366,7 @@ footer {
     }
     
     blockquote {
-        margin: 7vh 6vh;
+        margin: 7vw 6vw;
         text-align: center;
         font-size: 1.5rem;
     }
@@ -376,6 +376,6 @@ footer {
     }
     
     .cta {
-        padding: 5vh 6vh;
+        padding: 5vw 6vw;
     }
 }
