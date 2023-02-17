@@ -164,7 +164,9 @@ header .button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 2vw 25vw 10vw;
+    margin: 0 10vw;
+    padding: 5vh 0 10vh;
+    gap: 1.5rem;
 }
 
 .cards {
@@ -172,7 +174,7 @@ header .button {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 24px;
+    gap: 1.5rem;
     width: 100%;
 }
 
@@ -181,6 +183,7 @@ header .button {
     flex-direction: column;
     width: 200px;
     text-align: center;
+    gap: 0.5rem;
 }
 
 .cards img {
@@ -406,7 +409,6 @@ footer {
     .random-info .container {
         margin: 5vh 6vw;
         text-align: center;
-        gap: 1.5rem;
     }
 
     .cards {
@@ -416,7 +418,6 @@ footer {
     .cards .item {
         width: 100%;
         max-width: 300px;
-        gap: 0.5rem;
     }
     
     /*Blockquote*/
