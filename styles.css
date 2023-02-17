@@ -130,20 +130,25 @@ nav {
 
 /*Header*/
 header {
+    display: flex;
+    padding: 10vh 25vw;
+    gap: 48px;
     background-color: #1F2937;
     color: #f9faf8;
 }
 
 header .container {
-    padding: 10vw 25vw;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 48px;
+    gap: 1rem;
+    text-align: center;
 }
 
 header img {
-    width: 400px;
+    width: 100%;
+    max-width: 400px;
 }
 
 header .button {
