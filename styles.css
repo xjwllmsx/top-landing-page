@@ -417,9 +417,11 @@ footer {
     
     /*Blockquote*/
     blockquote {
-        margin: 7vw 6vw;
+        margin: 0 6vw;
+        padding: 5vh 0;
         text-align: center;
         font-size: 1.5rem;
+        gap: 1rem;
     }
 
     blockquote span {
