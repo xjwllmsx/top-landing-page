@@ -220,7 +220,7 @@ blockquote span {
 .cta .container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     margin: 0 auto;
     background-color: #3882f6;
@@ -437,6 +437,7 @@ footer {
 
     .cta .container {
         flex-direction: column;
+        justify-content: center;
         text-align: center;
         gap: 0.5rem;
     }
