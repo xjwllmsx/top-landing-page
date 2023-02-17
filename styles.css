@@ -407,8 +407,9 @@ footer {
     
     /*Random Info*/
     .random-info .container {
-        margin: 5vh 6vw;
+        margin: 0 6vw;
         text-align: center;
+        padding: 5vh 0;
     }
 
     .cards {
