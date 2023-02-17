@@ -214,7 +214,7 @@ blockquote span {
 
 /*Call to action*/
 .cta {
-    padding: 15vw 25vw; 
+    padding: 10vh 25vw; 
 }
 
 .cta .container {
@@ -230,7 +230,9 @@ blockquote span {
 }
 
 .cta-text {
-    line-height: 1.5px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
 }
 
 .cta .button {
