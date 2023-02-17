@@ -197,9 +197,11 @@ header .button {
 blockquote {
     display: flex;
     flex-direction: column;
-    margin: 10vw 25vw;
     font-size: 36px;
     color: #1F2937;
+    gap: 1rem;
+    margin: 0 25vw;
+    padding: 10vh 0;
 }
 
 blockquote p {
@@ -423,7 +425,6 @@ footer {
         padding: 5vh 0;
         text-align: center;
         font-size: 1.5rem;
-        gap: 1rem;
     }
 
     blockquote span {
