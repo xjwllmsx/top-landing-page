@@ -430,6 +430,12 @@ footer {
     
     /*CTA*/
     .cta {
-        padding: 5vw 6vw;
+        padding: 5vh 6vw;
+    }
+
+    .cta .container {
+        flex-direction: column;
+        text-align: center;
+        gap: 0.5rem;
     }
 }
