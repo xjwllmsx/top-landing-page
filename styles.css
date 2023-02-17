@@ -400,8 +400,9 @@ footer {
     
     /*Random Info*/
     .random-info .container {
-        margin: 2vw 6vw 5vw;
+        margin: 5vh 6vw;
         text-align: center;
+        gap: 1.5rem;
     }
 
     .cards {
@@ -411,6 +412,7 @@ footer {
     .cards .item {
         width: 100%;
         max-width: 300px;
+        gap: 0.5rem;
     }
     
     /*Blockquote*/
