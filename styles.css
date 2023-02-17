@@ -440,4 +440,8 @@ footer {
         text-align: center;
         gap: 0.5rem;
     }
+
+    .cta-text {
+        gap: 0.5rem;
+    }
 }
